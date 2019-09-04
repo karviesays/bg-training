@@ -1,0 +1,15 @@
+/*	Fonts CSS	*/
+@font-face {
+	font-family: 'ChunkFiveRegular';
+	src: url("../fonts/Chunk.eot"); /* IE9 */
+	src: url("../fonts/Chunk.eot?#iefix") format("embedded-opentype"),	/*	IE6-80%*/
+		url("../fonts/Chunk.ttf") format("truetype"),
+		url("../fonts/Chunk.otf") format("opentype");
+}
+@font-face {
+	font-family: 'PTSansCaptionRegular';
+	src: url("../fonts/PT-Sans-Caption.ttf"); /* IE9 */
+	src: url("../fonts/PT-Sans-Caption.ttf?#iefix") format("truetype"),	/*	IE6-80%*/
+		url("../fonts/PT-Sans-Caption.ttf") format("truetype"),
+		url("../fonts/PT-Sans-Caption.woff") format("woff");
+}
